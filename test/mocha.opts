@@ -1,2 +1,3 @@
 # can have comments in beginning
 -r ts-node/register
+setStackTraceLimit.ts
